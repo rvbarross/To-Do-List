@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ToDo List</string>
+    <string name="login_register">Não possui cadastro? clique aqui!</string>
+</resources>
